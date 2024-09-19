@@ -79,7 +79,7 @@ Some projects may require `dlib`. Follow these steps if `dlib` is necessary:
 
 ### 5. Run the Application
 
-Once everything is installed, download the `app.py` file and place it into the root directory. Now, you can run the application using Streamlit:
+Once everything is installed, download the `app.py` file and place it into the root directory. you can also use the Express_avatar.ipynb(google colab notebook), to run all these commands. Now, you can run the application using Streamlit:
 
 ```bash
 streamlit run app.py
