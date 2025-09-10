@@ -11,7 +11,6 @@ This repository provides a tool to generate expressive avatar videos from images
 ## Demo
 <video width="640" height="360" controls>
   <source src="demo.mp4" type="demo.mp4">
-  Your browser does not support the video tag.
 </video>
 ---
 
