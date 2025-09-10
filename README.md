@@ -10,7 +10,7 @@ This repository provides a tool to generate expressive avatar videos from images
 
 ## Demo
 
-<img src="demo.gif" alt="Hand Sign Detection Demo" width="900" height="450">
+<img src="demo.mp4" alt="Hand Sign Detection Demo" width="900" height="450">
 ---
 
 ## Getting Started
