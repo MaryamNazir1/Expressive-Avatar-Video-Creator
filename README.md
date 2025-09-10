@@ -9,12 +9,10 @@ This repository provides a tool to generate expressive avatar videos from images
 - **Super-Resolution**: Option to use face super-resolution for improved video quality.
 
 ## Demo
-<video width="640" height="360" controls>
-  <source src="demo.mp4" type="demo.mp4">
-</video>
----
-## 🎥 Demo
 
+<img src="demo.gif" alt="Expressive Avatar Video Creator" width="600" height="450">
+
+## clear demo video
 https://github.com/MaryamNazir1/Expressive-Avatar-Video-Creator/blob/main/demo.mp4
 
 ## Getting Started
