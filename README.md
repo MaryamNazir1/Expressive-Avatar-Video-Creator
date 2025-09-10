@@ -9,8 +9,10 @@ This repository provides a tool to generate expressive avatar videos from images
 - **Super-Resolution**: Option to use face super-resolution for improved video quality.
 
 ## Demo
-
-<img src="demo.mp4" alt="Hand Sign Detection Demo" width="900" height="450">
+<video width="640" height="360" controls>
+  <source src="demo.mp4" type="demo.mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Getting Started
