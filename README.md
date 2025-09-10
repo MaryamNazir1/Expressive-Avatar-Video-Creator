@@ -8,6 +8,9 @@ This repository provides a tool to generate expressive avatar videos from images
 - **Expression Control**: Select predefined expressions (e.g., happy, angry, sad) for the avatar.
 - **Super-Resolution**: Option to use face super-resolution for improved video quality.
 
+## Demo
+
+<img src="demo.gif" alt="Hand Sign Detection Demo" width="900" height="450">
 ---
 
 ## Getting Started
