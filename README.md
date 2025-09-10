@@ -13,6 +13,9 @@ This repository provides a tool to generate expressive avatar videos from images
   <source src="demo.mp4" type="demo.mp4">
 </video>
 ---
+## 🎥 Demo
+
+https://github.com/MaryamNazir1/Expressive-Avatar-Video-Creator/blob/main/demo.mp4
 
 ## Getting Started
 
